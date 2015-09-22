@@ -1,5 +1,5 @@
 body{
-  background-color: grey;
+  background-color: #333333;
 }
 li{
   color: purple;
@@ -20,18 +20,25 @@ h3{
   padding: 10px;
 }
 ol{
-  background-color: white;
+  background-color: grey;
   margin: 20px;
   width: 300px;
 }
 ul{
-  background-color: white;
+  background-color: grey;
   margin: 20px;
   width: 300px;
 }
+a{
+  color: #e6e6e6;
+}
+div.BandText{
+  max-width: 600px;
+  color: #cccccc;
+}
 span.mission{
   font-style: italic;
-  color: Magenta;
+  color: purple;
   font-size: x-large
 }
 span.warning{
@@ -49,7 +56,8 @@ img.magic {
 footer{
   text-align: center;
   font-size: small;
+  color: white;
 }
 abbr{
-  color: grey;
+  color: #ff99ff;
 }
