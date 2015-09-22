@@ -5,17 +5,6 @@ li{
   color: purple;
   font-size: large;
 }
-
-span.mission{
-  font-style: italic;
-  color: Magenta;
-  font-size: x-large
-}
-span.warning{
-  color: yellow;
-  font-style: oblique;
-  font-weight: bold;
-}
 h3{
   background-color: cyan;
   color: grey;
@@ -37,6 +26,17 @@ h1{
   color: magenta;
   background: cyan;
 }
+span.mission{
+  font-style: italic;
+  color: Magenta;
+  font-size: x-large
+}
+span.warning{
+  color: yellow;
+  font-style: oblique;
+  font-weight: bold;
+}
+
 img.magic {
   display: block;
   margin-left: auto;
