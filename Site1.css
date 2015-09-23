@@ -17,17 +17,18 @@ h2{
 }
 h3{
   color: cyan;
-  padding: 10px;
 }
 ol{
   background-color: grey;
   margin: 20px;
   width: 300px;
+  padding: 10px;
 }
 ul{
   background-color: grey;
   margin: 20px;
   width: 300px;
+  padding: 10px;
 }
 a{
   color: #e6e6e6;
@@ -39,7 +40,6 @@ div.BandText{
 span.mission{
   font-style: italic;
   color: purple;
-  font-size: x-large
 }
 span.warning{
   color: yellow;
