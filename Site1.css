@@ -37,6 +37,7 @@ div.BandText{
   max-width: 600px;
   color: #cccccc;
 }
+span.ListWithPics{}
 span.mission{
   font-style: italic;
   color: purple;
