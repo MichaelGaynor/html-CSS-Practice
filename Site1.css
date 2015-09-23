@@ -4,6 +4,7 @@ body{
 li{
   color: purple;
   font-size: large;
+  background-color: grey;
 }
 h1{
   text-align: center;
@@ -19,15 +20,13 @@ h3{
   color: cyan;
 }
 ol{
-  background-color: grey;
   margin: 20px;
-  width: 300px;
+  width: 250px;
   padding: 10px;
 }
 ul{
-  background-color: grey;
   margin: 20px;
-  width: 300px;
+  width: 250px;
   padding: 10px;
 }
 a{
